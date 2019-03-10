@@ -1,0 +1,25 @@
+{
+
+  "name": "a mental note",
+
+  "description": "bot for a mental note",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
